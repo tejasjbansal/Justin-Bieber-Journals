@@ -1,0 +1,91 @@
+body {
+  text-align: center;
+  background-color: silver;
+  background-image: url("images/justin-bieber-gq-0316-01.jpg");
+
+}
+
+h1 {
+  font-size: 5rem;
+  color: rgb(36, 56, 63);
+  font-family: "Arvo", cursive;
+  text-shadow: 3px 0 gray;
+
+}
+
+
+.w {
+background-image: url(images/download.jpg);
+background-size: 150px 150px;
+}
+
+.a {
+  background-image: url(images/Hold.jpg);
+  background-size: 150px 150px;
+}
+
+.s {
+  background-image: url(images/recovery.jpg);
+  background-size: 150px 150px;
+}
+
+.d {
+  background-image: url(images/badday.jpg);
+  background-size: 150px 150px;
+
+}
+
+.j {
+  background-image: url(images/roller.jpg);
+  background-size: 150px 150px;
+
+}
+
+.k {
+  background-image: url(images/one.jpg);
+  background-size: 150px 150px;
+
+}
+
+.l {
+  background-image: url(images/swap.jpg);
+  background-size: 150px 150px;
+  
+
+}
+
+.set {
+  margin: 10% auto;
+}
+
+.game-over {
+  background-color: red;
+  opacity: 0.8;
+}
+
+.pressed {
+  box-shadow: 0 3px 4px 0 #DBEDF3;
+  opacity: 0.5;
+}
+
+.red {
+  color: red;
+}
+
+.drum {
+  outline: none;
+  border: 10px solid rgb(64, 79, 128);
+  font-size: 1rem;
+  font-family: 'Arvo', cursive;
+  line-height: 2;
+  font-weight: 900;
+  color: rgb(36, 56, 63);
+  text-shadow: 3px 0 #DBEDF3;
+  border-radius: 15px;
+  display: inline-block;
+  width: 150px;
+  height: 150px;
+  text-align: center;
+  margin: 10px;
+  background-color: white;
+}
